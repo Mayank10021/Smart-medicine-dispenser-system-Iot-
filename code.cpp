@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL69EKgkxRP"
-#define BLYNK_TEMPLATE_NAME "Smart Medicine Dispenser System"
-#define BLYNK_AUTH_TOKEN "QpDXIOAvhUuAmy_cV_pWwokeiIJrGEEZ"
+#define BLYNK_TEMPLATE_ID "TMPL6RKnG6cPV"
+#define BLYNK_TEMPLATE_NAME "SMART MEDICINE DISPENSER"
+#define BLYNK_AUTH_TOKEN "jvl--QDP9J49Q7v9DyNJ3lI2QAGcoQXs"
 
 #define BLYNK_PRINT Serial
 
@@ -9,8 +9,8 @@
 #include <Servo.h>
 #include <time.h>
 
-char ssid[] = "Dicey";
-char pass[] = "asdfghjkl";
+char ssid[] = "YOUR WIFI NAME";
+char pass[] = "YOUR WIFI PASS";
 
 // -------- PINS --------
 #define SERVO1 D1
